@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laiduc13122009@gmail.com**
 
-- 📄 Know about my experiences [My Bio](guns.lol/laiduc1312)
+- 📄 Know about my experiences [guns.lol/laiduc1312](guns.lol/laiduc1312)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
