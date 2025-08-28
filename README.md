@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lại Lương Minh Đức</h1>
 <h3 align="center">A student</h3>
 
-- 🔭 I’m currently working on [Ninh Giang High School](https://www.facebook.com/NGHD123)
+- 🔭 I am studying at [Ninh Giang High School](https://www.facebook.com/NGHD123)
 
 - 💬 Ask me about **Sec**
 
 - 📫 How to reach me **laiduc13122009@gmail.com**
 
-- 📄 Know about my experiences [guns.lol/laiduc1312](guns.lol/laiduc1312)
+- 📄 Know about my experiences [My Bio](guns.lol/laiduc1312)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
