@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **laiduc13122009@gmail.com**
 
-- 📄 My Bio [guns.lol/laiduc1312](guns.lol/laiduc1312)
+- 📄 My Bio [https://laiduc1312.vercel.app/](https://laiduc1312.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
