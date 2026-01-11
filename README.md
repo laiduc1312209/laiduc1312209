@@ -1,4 +1,4 @@
-# 🎋 Konnichiwa! I'm Duc (laiduc1312) 🔭
+# 🎋 I'm Duc (laiduc1312) 🔭
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20my%20World&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
